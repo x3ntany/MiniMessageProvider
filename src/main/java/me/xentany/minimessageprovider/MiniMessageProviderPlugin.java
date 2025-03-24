@@ -25,7 +25,7 @@ public final class MiniMessageProviderPlugin extends JavaPlugin {
     }
   }
 
-  static MiniMessage get() {
+  static MiniMessage getMiniMessage() {
     return miniMessage;
   }
 }
