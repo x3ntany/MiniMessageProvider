@@ -7,9 +7,10 @@
     </repositories>
     <dependencies>
       <dependency>
-        <groupId>me.xentany</groupId>
+        <groupId>com.github.x3ntany</groupId>
         <artifactId>MiniMessageProvider</artifactId>
         <version>1.0.0</version>
+        <scope>provided</scope>
       </dependency>
     </dependencies>
 ```
